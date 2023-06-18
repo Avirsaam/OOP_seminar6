@@ -1,0 +1,12 @@
+{
+"clientName":"nameFromConsole",
+"product":"productFromConsole",
+"qnt":11,
+"price":11
+}
+{
+"clientName":"jsoneClienName",
+"product":"jsonProductName",
+"qnt":22,
+"price":22
+}
